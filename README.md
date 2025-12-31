@@ -9,7 +9,7 @@ The project uses React functional components and hooks (such as useState) to man
 It showcases essential React features including component-based architecture, event handling, conditional rendering, and basic TailwindCSS styling for a clean and responsive UI. 
 
 
-# Link : https://dics-game-react.vercel.app/
+Link : https://dics-game-react.vercel.app/
 
 
-<img width="1907" height="901" alt="Screenshot 2025-12-31 185155" src="https://github.com/user-attachments/assets/fac7b42a-beaa-45b5-bbea-e05687daea4e" />
+<img width="1200" height="600" alt="Screenshot 2025-12-31 185155" src="https://github.com/user-attachments/assets/fac7b42a-beaa-45b5-bbea-e05687daea4e" />
