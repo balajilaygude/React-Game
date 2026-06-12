@@ -1,15 +1,55 @@
+# Dice Game
 
+## Overview
 
+Dice Game is an interactive web application built with React.js and Tailwind CSS that allows users to test their luck and score points through a simple number prediction game. Players select a number, roll the dice, and earn points when their chosen number matches the dice outcome.
 
-# Balaji’s Dice Game 
-is a simple interactive web application built using React and deployed on Vercel, designed to demonstrate core front-end development concepts through a dice-style game. 
+The project was developed to strengthen core React concepts such as component-based architecture, state management, event handling, conditional rendering, and responsive UI development.
 
-The project uses React functional components and hooks (such as useState) to manage game state, generate random dice values, and update the user interface dynamically based on user interactions like clicking to roll the dice. 
+## Key Features
 
-It showcases essential React features including component-based architecture, event handling, conditional rendering, and basic TailwindCSS styling for a clean and responsive UI. 
+* Interactive dice rolling gameplay
+* Number selection system
+* Dynamic score tracking
+* Real-time game logic and score updates
+* Responsive user interface
+* Smooth navigation between Home and Game screens
+* Component-based React architecture
+* Clean UI built with Tailwind CSS
 
+## Tech Stack
 
-Link : https://dics-game-react.vercel.app/
+### Frontend
 
+* React.js
+* Tailwind CSS
+* JavaScript
 
-<img width="1200" height="600" alt="Screenshot 2025-12-31 185155" src="https://github.com/user-attachments/assets/fac7b42a-beaa-45b5-bbea-e05687daea4e" />
+### Deployment
+
+* Vercel
+
+## Game Logic
+
+* User selects a number before rolling the dice.
+* If the selected number matches the dice result, the user earns points equal to the dice value.
+* If the prediction is incorrect, 1 point is deducted from the score.
+* Score updates dynamically after every roll.
+
+## Challenges Faced
+
+### 1. State Management
+
+Managing selected numbers, dice values, and score updates efficiently using React state.
+
+### 2. Game Logic Implementation
+
+Implementing accurate scoring logic while ensuring smooth user interaction.
+
+### 3. Component Design
+
+Creating reusable components to keep the application maintainable and scalable.
+
+## Impact
+
+This project demonstrates core React fundamentals including component-based development, state management, event handling, conditional rendering, and responsive UI design using Tailwind CSS.
