@@ -50,6 +50,10 @@ Implementing accurate scoring logic while ensuring smooth user interaction.
 
 Creating reusable components to keep the application maintainable and scalable.
 
+## Live Demo
+
+Link : https://dics-game-react.vercel.app/
+
 ## Impact
 
 This project demonstrates core React fundamentals including component-based development, state management, event handling, conditional rendering, and responsive UI design using Tailwind CSS.
