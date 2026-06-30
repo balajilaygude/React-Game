@@ -54,6 +54,12 @@ Creating reusable components to keep the application maintainable and scalable.
 
 Link : https://dics-game-react.vercel.app/
 
+## Photos
+
+
+<img width="1918" height="907" alt="Screenshot 2026-06-30 161802" src="https://github.com/user-attachments/assets/c4be6b2a-c9a8-45c0-87ec-7f568c960da7" />
+
+
 ## Impact
 
 This project demonstrates core React fundamentals including component-based development, state management, event handling, conditional rendering, and responsive UI design using Tailwind CSS.
