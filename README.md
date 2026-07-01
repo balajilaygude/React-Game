@@ -56,6 +56,11 @@ Creating reusable components to keep the application maintainable and scalable.
 Link : https://dics-game-react.vercel.app/
 
 ## Photos
+<img width="1918" height="911" alt="Screenshot 2026-06-30 161632" src="https://github.com/user-attachments/assets/88d69f85-2b41-4b6a-8a37-2c1b8eaa2605" />
+
+<img width="1918" height="906" alt="Screenshot 2026-06-30 161742" src="https://github.com/user-attachments/assets/22401b8d-eebc-4841-b340-cb0d96adeacb" />
+
+<img width="1918" height="907" alt="Screenshot 2026-06-30 161802" src="https://github.com/user-attachments/assets/c4be6b2a-c9a8-45c0-87ec-7f568c960da7" />
 
 
 
